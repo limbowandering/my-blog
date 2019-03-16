@@ -16,6 +16,8 @@
 
 - [安装](#installation)
 
+- ## [其他](#others)
+
 
 
 ## <a id="installation">安装</a>
@@ -55,3 +57,6 @@ language messages zh_CN.utf-8
 
 
 
+## <a id="others">其他</a>
+
+一款chrome插件. Vimium. 
