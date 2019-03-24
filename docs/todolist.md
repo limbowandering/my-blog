@@ -27,6 +27,8 @@ todolist:
 
 想为自己做一个APP. 辅助自己的进步.功能:
 
+从web开始. PWA. 
+
 - 冥想
 - 番茄钟
 - TODOList
