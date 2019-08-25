@@ -10,6 +10,8 @@
 
 [学习Vim Vim notes](./2019/03/Vim_notes.md) (2019-03)
 
+[linux环境下pyecharts环境配置](./2019/linux-pyecharts-env.md) (2019-08)
+
 
 
 ## 折腾
